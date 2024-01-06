@@ -406,46 +406,12 @@ df.iloc[187593]
 # In[ ]:
 
 
-df.columns
-
-
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
-
-
-
-
-# In[ ]:
-
-
-ipl_ball.groupby(['batsman','non_striker'])['batsman_runs'].sum().sort_values(ascending=False)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-df
-
-
-# In[ ]:
 
 
 
